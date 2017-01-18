@@ -1,4 +1,4 @@
-# chroma-keying
+# Chroma-Keying
 Implementation of chroma keying on videos
 
 #Execution
